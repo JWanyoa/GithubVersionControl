@@ -1,11 +1,12 @@
 My To-Do list
  1. Write an article.
  2. Code.
- 3. Study books
+ 3. Study books.
  4. Attend Classes on time.
  5. Visit aunt.
  6. Apply for remote jobs.
-
- 7. Practice code\n
- 8. Compelting internship task.\n. 9. Practice chess openings.\n 10. Solve chess puzzles.\n 11. Check exam schedule.\n
- 8. Compelting internship task.\n. 9. Practice chess openings.\n 10. Solve chess puzzles.\n 11. Check exam schedule.\n
+ 7. Practice code.
+ 8. Compelting internship task.
+ 9. Practice chess openings.
+ 10. Solve chess puzzles.
+ 11. Check exam schedule.
